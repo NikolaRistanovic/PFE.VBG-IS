@@ -4,5 +4,5 @@ Napojni kabl 0.75mm2 - 40RSD/m
 Signalni kabl - 2M 28RSD/m(kabl za zvucnike)
 Tranzistor - 10RSD
 
-Pumpa - ???
+Pumpa - 240 @ https://www.mikroprinc.com/sr/proizvod/pumpa-potapajuca-80-120lh-25-6vdc
 Crevo - ???
